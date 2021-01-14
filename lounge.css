@@ -16,3 +16,10 @@ h1 {
 h2 {
     font-size: 1.3;
 }
+
+.guarantee {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    background-color: #a7cece;
+}
